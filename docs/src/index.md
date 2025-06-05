@@ -65,7 +65,3 @@ Dict{String, Any} with 5 entries:
 
 - [libyaml](https://github.com/yaml/libyaml) – Official library repository.  
 - [LibYAML_jll.jl](https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl) – Julia wrapper for libyaml.
-
-## Contributing
-
-Contributions to LibYAML are welcome! If you encounter a bug, have a feature request, or would like to contribute code, please open an issue or a pull request on GitHub.
